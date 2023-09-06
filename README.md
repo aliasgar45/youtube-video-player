@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot 2023-09-06 201635](https://github.com/aliasgar45/youtube-video-player/assets/91747704/08700806-f9af-41b4-b254-e5e714cbfd67)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
